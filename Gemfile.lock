@@ -48,7 +48,7 @@ GEM
     thor (0.19.1)
     timecop (0.8.1)
     xml-simple (1.1.5)
-    yard (0.8.7.6)
+    yard (0.9.36)
 
 PLATFORMS
   java
